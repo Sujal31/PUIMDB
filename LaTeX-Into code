@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{intro to \LaTeX{}}
+\author{sujal}
+
+\maketitle
+
+\begin{abstract}
+This is the Doucument for my project
+\end{abstract}
+
+\section{Introduction}
+This is the architectural blueprint for my project information Database
+
+\subsection{javascript coding design}
+\subsubsection{js object using in this project}
+\section{conclusion}
+i really really love it...!!!!
+
+\end{document}
